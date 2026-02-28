@@ -5,6 +5,7 @@ xhofe/alist:latest
 jboss/drools-workbench-showcase
 redis
 mysql:latest
+gitlab/gitlab-ce:17.7.0-ce.0
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
 
